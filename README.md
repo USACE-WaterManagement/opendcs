@@ -11,3 +11,10 @@ a general user of OpenDCS you should prefer releases from the Upstream project.
 
 Additionally, OpenDCS has plans to better "disconnect" the extra implementations from the core code. It is desired
 that this repository will eventually just come the "cwms-implementation" source and not a full fork for OpenDCS.
+
+
+
+# For Develpers
+
+To sync with the upstream repository *MAKE SURE* you have selected the upstream-main branch in the github ui.
+Otherwise it's going to try and overwrite the custom main branch.
